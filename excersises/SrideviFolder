@@ -1,1 +1,21 @@
+#Read and write practice code
+#f=open("myfile.txt","x")
+import os
+#f = open("C:/Users/T450s/PycharmProjects/pythonProject/myfile.txt","w")
+#f.write("Python is really great language isn't it?\nYeah it's great!")
+#f.close()
+#f = open("C:/Users/T450s/PycharmProjects/pythonProject/myfile.txt","r")
+#print(f.readlines())
+#for line in f.readlines():
+   # print(line)
+#str = f.read(10)
+#print("Read string is:",str)
+#position = f.tell()
+#print("Current file position:", position)
+#position = f.seek(0, 0)
+#str = f.read(10)
+#print("Again read string is :",str)
+#f.close()
+with open("myfile.txt",'r') as f:
+   print (f.read())
 
