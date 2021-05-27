@@ -1,0 +1,6 @@
+f = open("readwritepython.txt", "r")
+line=f.readlines(1)
+line=f.readlines(2)
+line=f.readlines(3)
+print(line)
+f.close()
