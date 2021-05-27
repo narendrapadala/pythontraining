@@ -1,0 +1,9 @@
+Do you know?
+Python script is more flexible than Java script.
+I like to learn Python.
+Hello Everyone!
+This is my first attempt to write to a file in Python.
+I'll first open the file and then write.
+Finally,I'll close it.
+Insert First line
+Append Next line
